@@ -19,7 +19,7 @@ Answer: This involves all the steps and processes needed to have complete softwa
 1. Requirement: This involves gathering all the essential materials needed to carry out the software development.
 2. Design: This phase involves coding and system architecture, user interfaces, and database designs.
 3. Implementation: Here the software is deployed to the production environment in the implementation phase. Note that it occurs after testing has been done.
-4. Testing: It is a critical phase that occurs for identifying and fixing bugs before the software is released. Note that several tests will occur software is accepted and taken for deployment.
+4. Testing: It is a critical phase that occurs for identifying and fixing bugs before the software is released. So as you know, several tests will occur and the Software will be accepted and taken for deployment.
 5. Deployment: This phase in the Software Development Life Cycle (SDLC) is where the fully developed and tested software is made available to end-users. This occurs after the testing and implementation phases.
 6. Maintenance: This phase involves ongoing support and updates for the software after its release. It covers everything about maintaining the software; from fixing any bugs that arise, and implementing new features, to ensuring the software continues to meet user needs over time. For the software to be effective, there should always be maintenance.
 
@@ -66,7 +66,8 @@ Answer: 1. Unit Testing: Unit testing involves testing individual components or 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Answer: Prompt engineering is the process of crafting instructions, known as prompts, that can be effectively interpreted and understood by generative AI models to produce desired outputs. A prompt is a natural language text that describes the task an AI should perform, such as answering a question, generating content, or completing a given context. It involves: Specifying the task, style, and relevant context in the prompt
+Answer: Prompt engineering is the process of crafting instructions, known as prompts, that can be effectively interpreted and understood by generative AI models to produce desired outputs. A prompt is a natural language text that describes the task an AI should perform, such as answering a question, generating content, or completing a given context. It involves: 
+Specifying the task, style, and relevant context in the prompt.
 Providing examples for the model to learn from (few-shot learning)
 Breaking down complex tasks into smaller, easier subtasks (prompt chaining)
 Iterating and refining the prompt to improve accuracy and effectiveness.
